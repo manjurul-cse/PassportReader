@@ -1,0 +1,7 @@
+
+VideoOCR.dll
+*.exe
+*.txt
+*.tlog
+*.pdb
+
